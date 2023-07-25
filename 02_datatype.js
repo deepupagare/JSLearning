@@ -1,4 +1,4 @@
-var firstName = "Gajanan";
+var firstName = "Deepak";
 console.log(firstName);
 console.log(typeof firstName);
 

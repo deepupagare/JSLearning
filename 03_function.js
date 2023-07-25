@@ -11,10 +11,10 @@ var num2 = 200;
 swap(num1, num2);// Function call or invocation
 
 var sweety = "Sweety";
-var cutie = "Cutey";
+var cutie = "Cutie";
 swap(sweety, cutie);
 
 var name1 = "Virat";
 var name2 = "Anushka";
-swap(name1, name2);
+swap(name1,name2);
 console.log('End of program');

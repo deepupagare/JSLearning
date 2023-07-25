@@ -1,8 +1,8 @@
 var pin;//variable declaration;
 console.log(pin);
 var myfirstName; //variable declaration;
-myName = "my Name is : Deepak";// Variable Assignment or Initialization
-console.log(myName );
+myfirstName = "my Name is : Deepak";// Variable Assignment or Initialization
+console.log(myfirstName );
 var myFullName; //variable declaration;
 myFullName = "my Full name is : Deepak Vitthal Pagare ";// Variable Assignment or Initialization
 console.log(myFullName);
