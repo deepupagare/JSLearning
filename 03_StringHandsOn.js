@@ -45,6 +45,6 @@ var result = greet.indexOf('Keep it up');
 console.log(`Sub-string starting from Index ''Keep it up' is : ${result}`);
 
 console.log("------------STEP-9-------------------");
-var resultEndSpaces = EndLength('with word up');
-var EndSpaces = resultEndSpaces
-console.log(`End with word ''up' is : ${result}`);
+var TotalEndSpaces = greet.indexOf( `with word "up": after step 3`);
+var EndSpaces = TotalEndSpaces;
+console.log(`End with word up'after step 3 is:${EndSpaces}`);
