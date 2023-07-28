@@ -48,3 +48,7 @@ console.log("------------STEP-9-------------------");
 var TotalEndSpaces = greet.indexOf( `with word "up": after step 3`);
 var EndSpaces = TotalEndSpaces;
 console.log(`End with word up'after step 3 is:${EndSpaces}`);
+console.log(`--------------STEP-10-----------------------`);
+var TotalEndSpaces = greet.indexOf( `with word "Hey": after  3`);
+var EndSpaces = TotalEndSpaces;
+console.log(`End with word Hey'after step 3 is:${EndSpaces}`);
