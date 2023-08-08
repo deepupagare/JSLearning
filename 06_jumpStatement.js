@@ -5,6 +5,7 @@ for (let index = 0; index < 10; index++) {
     }
     console.log(`Value is ${index}, Iteration ${index+1}`);
     console.log(`Iteration End`);
+
     console.log(`--------------------------`);
 }
 

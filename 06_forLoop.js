@@ -1,12 +1,12 @@
 var num = 10;
 var num2 = num++; // num2 = num + 1
-console.log(`Value of num : ${num}`);
+console.log(`Value of num: ${num}`);
 console.log(`Value of num2 : ${num2}`);
 
 var num4 = 10;
 var num5 = ++num4; // num4 = num4 + 1
-console.log(`Value of num : ${num4}`);
-console.log(`Value of num2 : ${num5}`);
+console.log(`Value of num4 : ${num4}`);
+console.log(`Value of num5 : ${num5}`);
 
 var num6 = 5;
 var num7 = --num6; // num7 = num6 - 1
@@ -54,9 +54,9 @@ console.log(`First 15 even numbers`);
 for (let index = 0; index <30 ; index=index+2) {
     console.log(index); 
 }
-console.log(`First 15 even numbers`);
+console.log(`First 15 Odd numbers`);
 // First 15 even number
-for (let index = 0; index <30 ; index=index+2) {
+for (let index = 1; index <30 ; index=index+2) {
     console.log(index); 
 }
 // Infinite Loop
