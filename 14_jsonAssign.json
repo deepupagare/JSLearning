@@ -1,0 +1,17 @@
+
+let details = `{
+
+  "name": "Aleix Melon",
+  "id": "E00245",
+  "role": ["Dev", "DBA"],
+  "age": 23,
+  "doj": "11-12-2019",
+  "married": false,
+  "address": {
+    "street": "32,Lahum St.",
+    "city": "Innsbruck",
+    "country": "Austria"
+  },
+  "referred_by": "E00245"
+}`;
+//const address1 = JSON.parse(details);

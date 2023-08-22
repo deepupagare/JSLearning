@@ -19,5 +19,3 @@ function factorial(num){
 }
 factorial(5);
 console.log(`Factorial using recursion is: ${fact}`);
-
-

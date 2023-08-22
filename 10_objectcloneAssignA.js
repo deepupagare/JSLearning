@@ -29,7 +29,7 @@ console.log(`----------------------------------------`);
 console.log(`Creating array of my friends Name`);
 let friendsName = [`Umesh,Shubham,Aditya,Shailesh`]
 console.log(`friends Name :${friendsName }`);
-Object.Freeze(friendsName)
+//Object.Freeze(friendsName)
 //friendsName.push("pranav")
 //console.log('friendsName :${friendsName}');
 

@@ -70,3 +70,11 @@ while (i<=10) {
     console.log(i);
     i++;
 }
+console.log(`------------Table of 5--------------`);
+var result =" ";
+for (let index = 5; index <=50; index=index+5) {
+    var result = result.concat(index).concat(" ");
+    
+}
+console.log(result);
+//console.log(index);

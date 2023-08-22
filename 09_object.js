@@ -19,12 +19,13 @@ let isMarried = personGK.isMarried;
 console.log(isMarried);
 
 personGK.city = "Mumbai";
-console.log(personGK);
+console.log(personGK.city);
 
 delete personGK.designation;
 console.log(personGK);
 
 personGK.adharNumber = 123456781234;
+console.log(personGK.adharNumber );
 
 personGK.show();
 
