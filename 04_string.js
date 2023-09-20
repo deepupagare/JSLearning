@@ -45,3 +45,8 @@ var resultTrimEnd = greet.trimEnd();
 var trimEndLength = resultTrimEnd.length; 
 var endSpaces = greet.length - trimEndLength;
 console.log(` End Spaces is : ${endSpaces} `);
+
+
+/*console.log(`------------------------`);
+var result = gret.slice (5,12);
+console.log(`slice from index 5 till 12 is : ${result }`); */
